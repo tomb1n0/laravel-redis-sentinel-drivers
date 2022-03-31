@@ -24,7 +24,7 @@
         "illuminate/redis": "^5.4 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
         "illuminate/session": "^5.4 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
         "illuminate/support": "^5.4 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
-        "monospice/spicy-identifiers": "^0.1",
+        "monospice/spicy-identifiers": "^1.0.x-dev",
         "predis/predis": "^1.1"
     },
     "autoload": {

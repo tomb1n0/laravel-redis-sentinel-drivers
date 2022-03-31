@@ -27,7 +27,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
       <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
-      <path value="$PROJECT_DIR$/vendor/monospice/spicy-identifier-tools" />
       <path value="$PROJECT_DIR$/vendor/monospice/spicy-identifiers" />
       <path value="$PROJECT_DIR$/vendor/illuminate/pipeline" />
       <path value="$PROJECT_DIR$/vendor/illuminate/database" />
@@ -44,6 +43,7 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/session" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/vendor/monospice/spicy-identifier-tools" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration">
