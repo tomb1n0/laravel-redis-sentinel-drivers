@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/streamingsystems/spicy-identifiers.git"
+            "url": "https://github.com/chadanuk/spicy-identifiers.git"
         }
     ],
     "require": {
@@ -24,7 +24,7 @@
         "illuminate/redis": "^5.4 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
         "illuminate/session": "^5.4 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
         "illuminate/support": "^5.4 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
-        "monospice/spicy-identifiers": "^1.0.x-dev",
+        "monospice/spicy-identifiers": "dev-add-typehints-for-php8.1",
         "predis/predis": "^1.1"
     },
     "autoload": {
